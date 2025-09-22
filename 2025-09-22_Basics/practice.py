@@ -1,6 +1,6 @@
 print("Hello, World!")
 
-# Data in Python
+# Data Types in Python
 print(type("Hello, World!"))
 print(type(2.99))
 print(type(299))
